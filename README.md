@@ -262,6 +262,9 @@
 
         make DESIGN_CONFIG=./designs/sky130hd/vsdbabysoc/config.mk gui_floorplan
 
+<img width="1920" height="1004" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/fe020dc3-cb39-43c7-a129-9957c47410aa" />
+
+
 <img width="1920" height="1014" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/2c4c8b49-1e93-4b43-918b-fb03d3021cfd" />
 
 <img width="1920" height="1004" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/95307c71-2603-4869-928d-c9b1ec53d132" />
@@ -286,6 +289,8 @@
 
 ## Placement GUI :
 
+         make DESIGN_CONFIG=./designs/sky130hd/vsdbabysoc/config.mk gui_place
+         
 
 <img width="1920" height="1014" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/4333a0c9-0e7a-4839-874b-fd47b59fccb7" />
 
@@ -293,5 +298,7 @@
 
 <img width="1920" height="1021" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/cb6485cd-2603-44d5-a8e9-4e32862f4668" />
 
+
+### Try to Analyze and understand all reports. 
 
 
